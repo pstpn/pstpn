@@ -6,7 +6,7 @@
 
 [![Stats_msg](https://readme-typing-svg.demolab.com?font=Mountains+of+Christmas&size=23&duration=2000&pause=10000&color=D4D9F7&width=150&height=35&lines=%F0%9F%9B%A0+MY+STATS%3A)](https://git.io/typing-svg)
 
-![My_top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=31steets31&theme=apprentice&layout=compact)
+![My_top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=31steets31&theme=apprentice&layout=compact&hide=assembly)
 
 [![Social_msg](https://readme-typing-svg.demolab.com?font=Mountains+of+Christmas&duration=2000&pause=10000&color=D4D9F7&multiline=true&width=150&height=35&lines=%F0%9F%93%AE+MY+SOCIALS%3A)](https://git.io/typing-svg)
 
