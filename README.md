@@ -14,3 +14,5 @@
   <a href="https://t.me/p_stpn">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
 </div>
+
+![My actions](https://github.com/pstpn/pstpn/blob/output/github-contribution-grid-snake.gif)
