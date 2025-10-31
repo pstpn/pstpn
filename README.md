@@ -4,6 +4,6 @@
 
 ![My_top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pstpn&theme=apprentice&layout=compact&hide=assembly)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pstpn&theme=onedark&column=3&rank=AAA,AA,A,BBB,BB,B,CCC,CC,C,SECRET,?)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/api/?username=pstpn&theme=onedark&column=3&rank=AAA,AA,A,BBB,BB,B,CCC,CC,C,SECRET,?)
 
 ![My actions](https://github.com/pstpn/pstpn/blob/output/github-contribution-grid-snake-dark.svg)
