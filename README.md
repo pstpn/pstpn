@@ -1,6 +1,6 @@
-# General
+## General
 
-<p align="center">
+<p align="left">
   <a href="https://stats.hyo.dev/stats/pstpn">
     <img src="https://stats.hyo.dev/api/github-stats-advanced?login=pstpn" alt="GitHub stats" width="360" />
   </a>
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## My 2025 unwrap
+### My 2025 unwrap
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/76249458-cc5c-44de-871f-abc95d7b14b7" alt="My 2025 unwrap" />
