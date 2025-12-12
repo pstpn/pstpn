@@ -9,8 +9,8 @@
   </a>
 </p>
 
-## _My 2025 unwrap_
+## My 2025 unwrap
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/76249458-cc5c-44de-871f-abc95d7b14b7" alt="My 2025 unwrap" />
 </p>
