@@ -1,4 +1,4 @@
-## General
+## General stats
 
 <p align="left">
   <a href="https://stats.hyo.dev/stats/pstpn">
@@ -9,8 +9,14 @@
   </a>
 </p>
 
-### My 2025 unwrap
+
+## Activity per year
+<a href="./profile-3d-contrib/profile-night-green.svg">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Activity per year" width="700" align="left"/>
+</a>
+
+## My 2025 unwrap
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/76249458-cc5c-44de-871f-abc95d7b14b7" alt="My 2025 unwrap" />
+  <img src="https://github.com/user-attachments/assets/76249458-cc5c-44de-871f-abc95d7b14b7" alt="My 2025 unwrap" width="700" />
 </p>
